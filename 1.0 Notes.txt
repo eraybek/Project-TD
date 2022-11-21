@@ -1,0 +1,10 @@
+* Yeni düşman tipleri eklenmeli.
+* Yeni savunmacı tipleri eklenmeli.
+* Environment tekrar sıfırdan yapılmalı. ( Sprite Editor )
+* Düşmanlara ölme animasyonu eklenmeli.
+* Yeni level dizaynları eklenebilir.
+
+/ Kingdom Two Crowns tarzında  Co-op bir oyuna dönüştürülebilir.
+/ Birden fazla krallıklar olabilir.
+/ Age Of Empires tarzında Odun/Maden kesme ve başka krallıklar ile ticaret yapılıp coin kazanılabilir.
+/ Düşmandan düşen şey her zaman Coin olmayabilir.
